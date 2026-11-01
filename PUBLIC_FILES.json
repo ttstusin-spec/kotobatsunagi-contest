@@ -1,0 +1,60 @@
+{
+  "selfExcluded": true,
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 435,
+      "sha256": "8716e54a1e5eadb13bbfaf83aaaf67c879be786b582268c016dda1f784de18f7"
+    },
+    {
+      "file": "README.md",
+      "bytes": 6991,
+      "sha256": "9460aa8fc0a80bec7b505efebd60792e9556dfb88d9bd7ac105bb34289920c14"
+    },
+    {
+      "file": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1310,
+      "sha256": "cef66ee2daaf9f136e7440045e8cf46a94292787970babd0873c2a1125465ff3"
+    },
+    {
+      "file": "package.json",
+      "bytes": 313,
+      "sha256": "a61560a5dc9eaee528fb9a44149a8d33c3b7a291335dcbd13f2895d0eb28f48e"
+    },
+    {
+      "file": "public/answer-call.mjs",
+      "bytes": 671,
+      "sha256": "1c14750ad39b97f00b48ee27288706e64cf29e7277de45b6bfbafd45c6f83142"
+    },
+    {
+      "file": "public/patient-accessibility.css",
+      "bytes": 2059,
+      "sha256": "244f67bb04cdb6d582bf44de078a7993ac0aa16c5b4b023770981cd2ec20cbcf"
+    },
+    {
+      "file": "public/patient-accessibility.mjs",
+      "bytes": 3784,
+      "sha256": "faf59c90e9e6217b5dd73ecdfddf433718aa83627869ca6f462a70054741f660"
+    },
+    {
+      "file": "public/previsit-error.mjs",
+      "bytes": 855,
+      "sha256": "894cd7aabced0134f27892f02ad30e3024de541768785ac36968e03ceed0625d"
+    },
+    {
+      "file": "tests/answer-call.test.mjs",
+      "bytes": 2924,
+      "sha256": "5e498ce8c24ac6381f4c7f2eba8b4db501785af6f09de312c8b7e45061f5c4df"
+    },
+    {
+      "file": "tests/patient-accessibility.test.mjs",
+      "bytes": 918,
+      "sha256": "6e08eb27253ee8470e22261ab77357e16087270b7472b55bb8d28f1dc27f24eb"
+    },
+    {
+      "file": "tests/previsit-error.test.mjs",
+      "bytes": 855,
+      "sha256": "5a0ead2a32ada1356de22abb94e9fd1bfda1b77b5ed994a602552d2e94554f55"
+    }
+  ]
+}

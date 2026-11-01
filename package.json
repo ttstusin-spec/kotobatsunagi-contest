@@ -1,0 +1,13 @@
+{
+  "name": "kotobatsunagi-contest",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "ことばつなぎ・実装の一部を公開するコンテスト提出候補",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  }
+}

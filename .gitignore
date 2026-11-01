@@ -1,0 +1,18 @@
+# Only reviewed submission files are eligible for a normal git add.
+/*
+!/.gitignore
+!/README.md
+!/THIRD_PARTY_NOTICES.md
+!/package.json
+!/PUBLIC_FILES.json
+!/public/
+/public/*
+!/public/answer-call.mjs
+!/public/patient-accessibility.css
+!/public/patient-accessibility.mjs
+!/public/previsit-error.mjs
+!/tests/
+/tests/*
+!/tests/answer-call.test.mjs
+!/tests/patient-accessibility.test.mjs
+!/tests/previsit-error.test.mjs
