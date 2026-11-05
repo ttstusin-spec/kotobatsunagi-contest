@@ -28,18 +28,18 @@
     },
     {
       "file": "public/patient-accessibility.css",
-      "bytes": 2072,
-      "sha256": "dbb29b9696d7a8f1606688675ec3082c1fe05ba63656aa2e3e729329c18ce37c"
+      "bytes": 2059,
+      "sha256": "244f67bb04cdb6d582bf44de078a7993ac0aa16c5b4b023770981cd2ec20cbcf"
     },
     {
       "file": "public/patient-accessibility.mjs",
-      "bytes": 3803,
-      "sha256": "440cddc2a566a3f670ab81653181721f5c915e0f8fa92483aed6496ab5074aae"
+      "bytes": 3784,
+      "sha256": "faf59c90e9e6217b5dd73ecdfddf433718aa83627869ca6f462a70054741f660"
     },
     {
       "file": "public/previsit-error.mjs",
-      "bytes": 862,
-      "sha256": "9cb0e30591ecb687480205c02557decb1ad3aa662d6f77888485a12881399024"
+      "bytes": 855,
+      "sha256": "894cd7aabced0134f27892f02ad30e3024de541768785ac36968e03ceed0625d"
     },
     {
       "file": "tests/answer-call.test.mjs",
@@ -48,13 +48,13 @@
     },
     {
       "file": "tests/patient-accessibility.test.mjs",
-      "bytes": 923,
-      "sha256": "71233e2101269352ff1fc0184ce5939a0717d96471d1937f19ee0343ffa35973"
+      "bytes": 918,
+      "sha256": "6e08eb27253ee8470e22261ab77357e16087270b7472b55bb8d28f1dc27f24eb"
     },
     {
       "file": "tests/previsit-error.test.mjs",
-      "bytes": 872,
-      "sha256": "aa385dd0613c76c664c8f5af56ec8e30624c932da9fc748a20f903c7dacd8494"
+      "bytes": 855,
+      "sha256": "5a0ead2a32ada1356de22abb94e9fd1bfda1b77b5ed994a602552d2e94554f55"
     }
   ]
 }
